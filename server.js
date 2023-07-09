@@ -1,5 +1,3 @@
-
-
 const mongoose = require("mongoose");
 const app = require("./app");
 const chalk = require("chalk");
