@@ -1,5 +1,5 @@
 ## Backend Node.js for phonebook
-
+(the project is under development)
 
 ### Команди:
 
